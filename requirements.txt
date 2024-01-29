@@ -1,0 +1,9 @@
+langchain==0.1.4
+unstructured==0.12.2
+unstructured[pdf]==0.12.2
+fastapi==0.109.0
+kaleido==0.2.1
+uvicorn==0.27.0
+sentence-transformers==2.2.2
+chromadb==0.4.22
+langchain-nvidia-ai-endpoints==0.0.1
