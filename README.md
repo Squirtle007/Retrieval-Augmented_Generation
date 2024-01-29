@@ -30,5 +30,7 @@
 <br>
 <br>
 **Step 4. Paste your API Key in Part V cell in the [colab]((https://colab.research.google.com/drive/1AWTZRzy6Cwxy1jc5NdIbLg9PRwI0sHmK?usp=sharing)) to access the model in NVIDIA AI Playground**
-<img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/7efd1380-6cfd-4b32-98db-899d2eaaa924" width="800">
-"
+<br>
+<br>
+<img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/7efd1380-6cfd-4b32-98db-899d2eaaa924" width="600">
+
