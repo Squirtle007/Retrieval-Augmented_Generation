@@ -15,14 +15,14 @@
 <br>
 <br>
 <br>
-**Step 2. Click on Welcome Guest at the top right, then choose Sign in/Sign up to log in or register:**
+**Step 2. Click on Welcome Guest at the top right, then choose [Sign in/Sign up](https://ngc.nvidia.com/signin) to log in or register:**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/8bff4677-2109-47aa-9e85-593ebeeb9fd7" width="800">
 <br>
 <br>
 <br>
-**Step 3. Navigate to AI Foundation Models and select one of the available models (ex. Llama2 13B):**
+**Step 3. Navigate to [AI Foundation Models](https://catalog.ngc.nvidia.com/ai-foundation-models) and select one of the available models (ex. Llama2 13B):**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/92e1cae7-2b37-4406-82d2-6689be2785c6" width="800">
