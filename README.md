@@ -1,7 +1,7 @@
 # Retrieval-Augmented Generation (RAG)
 
 **Experience RAG in just a few minutes with free LLM models running on NVIDIA AI Playground!** <br>
-**--> Using [Colab](https://colab.research.google.com/drive/1AWTZRzy6Cwxy1jc5NdIbLg9PRwI0sHmK?usp=sharing)**
+**--> Follow the 1~4 steps below and use [Colab](https://colab.research.google.com/drive/1AWTZRzy6Cwxy1jc5NdIbLg9PRwI0sHmK?usp=sharing)**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/1e18a656-44cb-434c-b756-4fac25b1a318" width="600">
