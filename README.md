@@ -1,6 +1,6 @@
 # Retrieval-Augmented_Generation (RAG)
 
-**Experience RAG in just a few minutes with free LLM models running on NVIDIA AI Playground!**
+**Experience RAG in just a few minutes with free LLM models running on NVIDIA AI Playground!** <br>
 **--> Using [Colab](https://colab.research.google.com/drive/1AWTZRzy6Cwxy1jc5NdIbLg9PRwI0sHmK?usp=sharing)**
 <br>
 <br>
