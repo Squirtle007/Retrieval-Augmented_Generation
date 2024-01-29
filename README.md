@@ -1,14 +1,14 @@
 # Retrieval-Augmented Generation (RAG)
 
 **Experience RAG in just a few minutes with free LLM model inference on NVIDIA AI Playground!** <br>
---> Follow the 1~4 steps below then run this [Colab](https://colab.research.google.com/drive/1AWTZRzy6Cwxy1jc5NdIbLg9PRwI0sHmK?usp=sharing)
+--> Follow the 1~4 steps below then run this [**Colab**](https://colab.research.google.com/drive/1AWTZRzy6Cwxy1jc5NdIbLg9PRwI0sHmK?usp=sharing)
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/1e18a656-44cb-434c-b756-4fac25b1a318" width="600">
 <br>
 <br>
 <br>
-**Step 1. Go to the NVIDIA NGC page, and click on Explore NGC Catalog at the top right:**
+**Step 1. Go to the [NVIDIA NGC](https://catalog.ngc.nvidia.com/) page, and click on Explore NGC Catalog at the top right:**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/9e0f40a8-9283-42e2-b078-f7fec8440bde" width="800">
