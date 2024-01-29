@@ -1,10 +1,10 @@
 # Retrieval-Augmented_Generation (RAG)
-<br>
+
 **Experience RAG in just a few minutes with free LLM models running on NVIDIA AI Playground!**
-  
+<br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/1e18a656-44cb-434c-b756-4fac25b1a318" width="800">
-  
-  
+<br>
+<br>
 **Step 1. Go to the NVIDIA NGC page, and click on Explore NGC Catalog at the top right.**
   
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/9e0f40a8-9283-42e2-b078-f7fec8440bde" width="800">
