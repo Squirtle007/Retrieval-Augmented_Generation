@@ -17,5 +17,6 @@
 
 **Step 3. Keep a record of the API Key; we will use this API later to perform inference through the NVIDIA Cloud-based LLM.**
 
-![3](https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/3504f196-9e7e-453e-a22f-187bee7dfef1)
+![3](https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/c30f83f6-dd14-465e-a55c-b16a1339da8a)
+
 (Please note that there is a usage limit for this API, and NVIDIA currently provides 5000 cloud credits for users to conduct inference.)
