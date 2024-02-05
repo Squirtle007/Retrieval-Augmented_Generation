@@ -1,6 +1,6 @@
 # Retrieval-Augmented Generation (RAG)
 
-**Experience RAG in just a few minutes with free LLM model inference on NVIDIA AI Playground!** <br>
+**Experience RAG in just a few minutes with free LLM model inference on NVIDIA GPU!** <br>
 *Follow the 1~5 steps below then run this [**Colab**](https://colab.research.google.com/drive/15cgesKtCDpDTwEDkKU4ubr4C8IldODSh?usp=sharing)*.
 <br>
 <br>
