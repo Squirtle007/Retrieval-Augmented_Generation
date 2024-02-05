@@ -39,7 +39,7 @@
 **Step 5. Open [colab](https://colab.research.google.com/drive/15cgesKtCDpDTwEDkKU4ubr4C8IldODSh?usp=sharing) and make sure you select `Runtime > Change runtime type > T4 GPU`.**
 <br>
 <br>
-<img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/24c24f8f-cc41-40f2-b23d-56910364ffbc" width="800">
+<img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/dc9e6137-7f96-4b6f-9d6f-9e3641becf29" width="800">
 <img src="images/colab-change-runtime-type-t4-gpu.png" width="500">
 <br>
 <br>
