@@ -44,7 +44,8 @@
 <br>
 <br>
 <br>
-**Step 6. Paste your API Key into the Part-V cell, and then run the cells in order to access the models in NVIDIA AI Playground:**
+**Step 6. Paste your API Key into the Part-V cell, and then run the cells to access the models in NVIDIA AI Playground:**
 <br>
 <br>
-<img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/173c7c01-e92b-4533-a72f-17fc412ee02a" width="600">
+<img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/dbf9b6b2-fae0-4a70-91ba-26275138e1a9" width="600">
+<br>
