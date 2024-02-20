@@ -39,12 +39,12 @@
 **Step 5. Open [colab](https://colab.research.google.com/drive/15cgesKtCDpDTwEDkKU4ubr4C8IldODSh?usp=sharing) and make sure you select `Runtime > Change runtime type > T4 GPU`.**
 <br>
 <br>
-<img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/9f8feb46-1d4a-4013-b4de-2f71333b9300" width="800">
+<img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/9f8feb46-1d4a-4013-b4de-2f71333b9300" width="600">
 <img src="images/colab-change-runtime-type-t4-gpu.png" width="500">
 <br>
 <br>
 <br>
-**Step 6. Paste your API Key into the Part-V cell, and then run the cells to access the models in NVIDIA AI Playground:**
+**Step 6. Paste your API Key into the cell at the beginning of the notebook, and then run the cell to access NVIDIA AI Foundation Models:**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/dbf9b6b2-fae0-4a70-91ba-26275138e1a9" width="700">
