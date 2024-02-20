@@ -40,6 +40,7 @@
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/9f8feb46-1d4a-4013-b4de-2f71333b9300" width="600">
+<br>
 <img src="images/colab-change-runtime-type-t4-gpu.png" width="500">
 <br>
 <br>
