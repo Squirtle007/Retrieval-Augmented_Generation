@@ -4,7 +4,7 @@
 *Follow the 1~5 steps below then run this [**Colab**](https://colab.research.google.com/drive/15cgesKtCDpDTwEDkKU4ubr4C8IldODSh?usp=sharing)*.
 <br>
 <br>
-<img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/e26309c4-b79c-4803-9779-d135e20af0d8" width="800">
+<img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/8a84417f-f600-4917-9e33-63bf770234e9" width="800">
 <br>
 <br>
 <br>
