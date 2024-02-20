@@ -48,5 +48,5 @@
 **Step 6. Paste your API Key into the cell at the beginning of the notebook, and then run the cell to access NVIDIA AI Foundation Models:**
 <br>
 <br>
-<img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/dbf9b6b2-fae0-4a70-91ba-26275138e1a9" width="700">
+<img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/0ef8cefd-b946-4310-8b98-96232616e59f" width="700">
 <br>
