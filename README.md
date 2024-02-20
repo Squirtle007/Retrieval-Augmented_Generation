@@ -1,7 +1,7 @@
 # Retrieval-Augmented Generation (RAG)
 
 **Experience RAG in just a few minutes with free LLM model inference on NVIDIA GPU!** <br>
-*Follow the 1~5 steps below then run this [**Colab**](https://colab.research.google.com/drive/15cgesKtCDpDTwEDkKU4ubr4C8IldODSh?usp=sharing)*.
+*Follow the 1~5 steps below then run this [**Colab**](https://colab.research.google.com/drive/1vjepScFsWwnzS_8oAakd1DUAsP_h9w9f?usp=sharing)*.
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/8a84417f-f600-4917-9e33-63bf770234e9" width="800">
