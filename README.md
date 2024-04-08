@@ -29,7 +29,7 @@
 <br>
 <br>
 <br>
-**Step 4. Generate the API Key of a model (ex. [`Llama 2 13B`](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/ai-foundation/models/llama2-13b/api) or ([`Llama 2 13B`]https://build.nvidia.com/meta/llama2-70b)) and keep it; we will use this API later to perform inference through the NVIDIA Cloud-based LLM:**
+**Step 4. Generate the API Key of a model (ex. [`Llama 2 70B`](https://build.nvidia.com/meta/llama2-70b) or [`Llama 2 13B`](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/ai-foundation/models/llama2-13b/api) and keep it; we will use this API later to perform inference through the NVIDIA Cloud-based LLM:**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/2ebad636-24c0-4ef0-89a1-7342a6c635bd" width="800">
