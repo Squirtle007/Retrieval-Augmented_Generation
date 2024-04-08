@@ -22,14 +22,14 @@
 <br>
 <br>
 <br>
-**Step 3. Navigate to [`AI Foundation Models`](https://catalog.ngc.nvidia.com/ai-foundation-models) and select one of the available models (ex. [`Llama 2 13B`](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/ai-foundation/models/llama2-13b/api)):**
+**Step 3. Navigate to [`AI Foundation Models`](https://catalog.ngc.nvidia.com/ai-foundation-models) and select one of the available models:**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/92e1cae7-2b37-4406-82d2-6689be2785c6" width="800">
 <br>
 <br>
 <br>
-**Step 4. Generate the API Key of a model (ex. [`Llama 2 70B`](https://build.nvidia.com/meta/llama2-70b) or [`Llama 2 13B`](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/ai-foundation/models/llama2-13b/api) and keep it; we will use this API later to perform inference through the NVIDIA Cloud-based LLM:**
+**Step 4. Generate the API Key of a model (ex. [`Llama 2 70B`](https://build.nvidia.com/meta/llama2-70b) or [`Llama 2 13B`](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/ai-foundation/models/llama2-13b/api)) and keep it; we will use this API later to perform inference through the NVIDIA Cloud-based LLM:**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/2ebad636-24c0-4ef0-89a1-7342a6c635bd" width="800">
