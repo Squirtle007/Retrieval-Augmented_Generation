@@ -1,7 +1,9 @@
 # Retrieval-Augmented Generation (RAG)
 
+[![](https://camo.githubusercontent.com/f5e0d0538a9c2972b5d413e0ace04cecd8efd828d133133933dfffec282a4e1b/68747470733a2f2f636f6c61622e72657365617263682e676f6f676c652e636f6d2f6173736574732f636f6c61622d62616467652e737667)](https://colab.research.google.com/github/Squirtle007/Retrieval-Augmented_Generation/blob/main/Retrieval_Augmented_Generation.ipynb)
+
 **Experience RAG in just a few minutes with free LLM model inference on NVIDIA GPU!** <br>
-*Follow the 1~5 steps below:*
+*Follow the 1~5 steps below, then run this [**Colab**](https://colab.research.google.com/github/Squirtle007/Retrieval-Augmented_Generation/blob/main/Retrieval_Augmented_Generation.ipynb)*.
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/8a84417f-f600-4917-9e33-63bf770234e9" width="800">
@@ -36,7 +38,7 @@
 <br>
 <br>
 <br>
-**Step 5. Open [colab](https://colab.research.google.com/drive/15cgesKtCDpDTwEDkKU4ubr4C8IldODSh?usp=sharing) and make sure you select `Runtime > Change runtime type > T4 GPU`.**
+**Step 5. Open [colab](https://colab.research.google.com/github/Squirtle007/Retrieval-Augmented_Generation/blob/main/Retrieval_Augmented_Generation.ipynb) and make sure you select `Runtime > Change runtime type > T4 GPU`.**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/9f8feb46-1d4a-4013-b4de-2f71333b9300" width="600">
