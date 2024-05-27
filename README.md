@@ -17,7 +17,7 @@
 <br>
 <br>
 <br>
-**Step 2. In the search bar, type one of the available models (ex. [`Llama 2 70B`](https://build.nvidia.com/meta/llama2-70b) or [`Llama 2 13B`](https://catalog.ngc.nvidia.com/orgs/nvidia/teams/ai-foundation/models/llama2-13b/api)), then navigate to `Learn More`:**
+**Step 2. In the search bar, type one of the available models (ex. [`Llama 2 70B`](https://build.nvidia.com/meta/llama2-70b)), then navigate to `Learn More`:**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/3a122cd4-f02a-442d-ac78-d75b1cfc0877" width="800">
