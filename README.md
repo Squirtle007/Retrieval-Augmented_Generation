@@ -10,7 +10,7 @@
 <br>
 <br>
 <br>
-**Step 1. Go to the [Try NVIDIA NIM APIs]([https://catalog.ngc.nvidia.com/](https://build.nvidia.com/explore/discover)) page, and Click on `Welcome Guest` at the top right, then choose [`Login`](https://ngc.nvidia.com/signin) to log in or register (Corporate Email is recommended):**
+**Step 1. Go to the [Try NVIDIA NIM APIs](https://build.nvidia.com/explore/discover) page, then choose [`Login`](https://ngc.nvidia.com/signin) at the top right to log in or register (Corporate Email is recommended):**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/63fcccf5-bd36-45ef-a681-90a63c82f0ff" width="800">
@@ -27,7 +27,7 @@
 **Step 3. Generate the API Key of the model and keep it; we will use this API later to perform inference through the NVIDIA Cloud-based LLM:**
 <br>
 <br>
-<img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/2ebad636-24c0-4ef0-89a1-7342a6c635bd" width="800">
+<img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/b696ab2c-ae5a-4f4d-b190-1a752073d8f4" width="800">
 <br>
 <br>
 <br>
