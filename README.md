@@ -10,17 +10,17 @@
 <br>
 <br>
 <br>
-**Step 1. Go to the [NVIDIA NGC](https://catalog.ngc.nvidia.com/) page, and Click on `Welcome Guest` at the top right, then choose [`Sign In/Sign Up`](https://ngc.nvidia.com/signin) to log in or register:**
+**Step 1. Go to the [Try NVIDIA NIM APIs]([https://catalog.ngc.nvidia.com/](https://build.nvidia.com/explore/discover)) page, and Click on `Welcome Guest` at the top right, then choose [`Login`](https://ngc.nvidia.com/signin) to log in or register (Corporate Email is recommended):**
 <br>
 <br>
-<img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/5f5efe05-fed6-4b4a-acc9-d0d16382a11c" width="800">
+<img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/63fcccf5-bd36-45ef-a681-90a63c82f0ff" width="800">
 <br>
 <br>
 <br>
-**Step 2. In the search bar, type one of the available models (ex. [`Llama 2 70B`](https://build.nvidia.com/meta/llama2-70b)), then navigate to `Learn More`:**
+**Step 2. On the home page, select one of the available models (ex. [`llama3-70b-instruct`](https://build.nvidia.com/explore/discover#llama3-70b)):**
 <br>
 <br>
-<img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/3a122cd4-f02a-442d-ac78-d75b1cfc0877" width="800">
+<img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/assets/66664309/86a9b1d1-cbbd-4db3-b255-0de006453f8a" width="800">
 <br>
 <br>
 <br>
