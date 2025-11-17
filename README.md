@@ -10,28 +10,28 @@
 <br>
 <br>
 <br>
-**Step 1. Go to the [Try NVIDIA NIM APIs](https://build.nvidia.com/explore/discover) page, then choose `Login` at the top right to log in or register (Corporate Email is recommended):**
+**Step 1. Go to the [Try NVIDIA NIM APIs](https://build.nvidia.com/) page, then choose `Login` at the top right to log in or register (corporate/school Email is recommended):**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/blob/main/images/step_1.png" width="800">
 <br>
 <br>
 <br>
-**Step 2. On the home page, select one of the available models (ex. [`llama3-70b-instruct`](https://build.nvidia.com/meta/llama3-70b)):**
+**Step 2. On the home page, click on the `Models` tag to select one of the available models, or find the desired model through the `Search` bar (ex. [`mistralai/mistral-nemotron`](https://build.nvidia.com/mistralai/mistral-nemotron)):**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/blob/main/images/step_2.png" width="800">
 <br>
 <br>
 <br>
-**Step 3. Generate the API Key of the model and keep it; we will use this API later to perform inference through the NVIDIA Cloud-based LLM:**
+**Step 3. Click on the `View Code` to view the details of the modeal**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/blob/main/images/step_3.png" width="800">
 <br>
 <br>
 <br>
-**Step 3. Generate the API Key of the model and keep it; we will use this API later to perform inference through the NVIDIA Cloud-based LLM:**
+**Step 4. Copy the API Key (or generate a new one) and keep it; we will use this API later to perform inference through the NVIDIA Cloud-based LLM:**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/blob/main/images/step_4.png" width="800">
