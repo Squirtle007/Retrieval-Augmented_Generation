@@ -17,7 +17,7 @@
 <br>
 <br>
 <br>
-**Step 2. On the home page, click on the `Models` tag to select one of the available models, or find the desired model through the `Search` bar (ex. [`mistralai/mistral-nemotron`](https://build.nvidia.com/mistralai/mistral-nemotron)):**
+**Step 2. On the home page, click on the `Models` tag to select one of the available models, or find the desired model through the `Search` bar (ex. [`nvidia/nemotron-3-super-120b-a12b`](https://build.nvidia.com/nvidia/nemotron-3-super-120b-a12b)):**
 <br>
 <br>
 <img src="https://github.com/Squirtle007/Retrieval-Augmented_Generation/blob/main/images/step_2.png" width="800">
